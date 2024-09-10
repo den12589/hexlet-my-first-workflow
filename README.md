@@ -1,2 +1,1 @@
-# hexlet-my-first-workflow
-first workflow for hexlet
+hexlet-my-first-workflow
